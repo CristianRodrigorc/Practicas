@@ -4,7 +4,7 @@ public class Pokemon {
 	private String nombrePokemon;
 	private int healthPoints;
 	private int fuerzaDeAtaque;
-	
+	/* comentario */
 	
 	public Pokemon(String nombrePokemon, int healthPoints, int fuerzaDeAtaque) {
 		this.nombrePokemon = nombrePokemon;
