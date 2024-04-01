@@ -6,6 +6,7 @@ public class Pokemon {
 	private int fuerzaDeAtaque;
 	/* comentario */
 	/* comentario rama Cristian */
+	/* comentario rama Pruebas */
 	
 	public Pokemon(String nombrePokemon, int healthPoints, int fuerzaDeAtaque) {
 		this.nombrePokemon = nombrePokemon;
